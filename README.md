@@ -1,4 +1,4 @@
-# OzGrav Training Package:
+# OzGrav Training Package
 
 This package does some stuff.
 
