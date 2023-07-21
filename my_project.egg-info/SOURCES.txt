@@ -1,0 +1,17 @@
+README.md
+setup.py
+my_package/__init__.py
+my_package/data_processing.py
+my_package/load_data.py
+my_package/my_file.py
+my_package/plotting.py
+my_package/data/pulsars.csv
+my_package/scripts/__init__.py
+my_package/scripts/filter_and_plot.py
+my_package/scripts/hello_world.py
+my_project.egg-info/PKG-INFO
+my_project.egg-info/SOURCES.txt
+my_project.egg-info/dependency_links.txt
+my_project.egg-info/entry_points.txt
+my_project.egg-info/requires.txt
+my_project.egg-info/top_level.txt
